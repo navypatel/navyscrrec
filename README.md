@@ -1,2 +1,2 @@
-# navyscrrec.github.io
+# navyscrrec
 Screen Recorder
